@@ -3,5 +3,6 @@ public class merge {
         System.out.println("Shashwat");
 
         System.out.println("Commit 1 for merging");
+        System.out.println("Commit 2 for merging");
     }
 }
